@@ -1,0 +1,7 @@
+{
+  "name": "v2",
+  "private": true,
+  "dependencies": {
+    "@superfaceai/one-sdk": "2.0.0-rc.1"
+  }
+}
