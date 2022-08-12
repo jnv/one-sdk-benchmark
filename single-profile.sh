@@ -1,7 +1,7 @@
 #!/bin/sh
 
 MAX_OLD_SPACE=128
-SCRIPT=sdk-single-profile.js
+SCRIPT=single-profile.js
 
 echo "Running v1 warm up"
 pushd v1
